@@ -1,0 +1,21 @@
+# SQLite Database
+*.db
+agribridge.db
+app/agribridge.db
+
+# Python cache & build
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Virtual Environments
+venv/
+env/
+.venv/
+ENV/
+
+# Environment Variables
+.env
+.env.*
